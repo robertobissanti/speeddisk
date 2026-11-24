@@ -1,6 +1,20 @@
-# speeddisk
+<p align="center">
+  <img src="assets/speeddisk.png" alt="speeddisk icon" width="128">
+</p>
 
-**A cross-platform terminal (TUI) disk speed test for video workflows.**
+<h1 align="center">speeddisk</h1>
+
+<p align="center"><b>A cross-platform terminal (TUI) disk speed test for video workflows.</b></p>
+
+<p align="center">
+  <a href="https://github.com/robertobissanti/speeddisk/releases/latest"><img alt="Release" src="https://img.shields.io/github/v/release/robertobissanti/speeddisk"></a>
+  <a href="https://github.com/robertobissanti/speeddisk/actions/workflows/release.yml"><img alt="Build" src="https://img.shields.io/github/actions/workflow/status/robertobissanti/speeddisk/release.yml"></a>
+  <a href="LICENSE"><img alt="License: BSD-3-Clause" src="https://img.shields.io/badge/license-BSD--3--Clause-blue"></a>
+  <img alt="Platforms" src="https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS%20%7C%20WSL-lightgrey">
+  <img alt="Python" src="https://img.shields.io/badge/python-3.9%2B-3776AB?logo=python&logoColor=white">
+  <img alt="Languages" src="https://img.shields.io/badge/i18n-en%20%7C%20it%20%7C%20es%20%7C%20fr%20%7C%20de-orange">
+  <a href="https://github.com/robertobissanti/speeddisk/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/robertobissanti/speeddisk/total"></a>
+</p>
 
 Runs on **Linux, Windows, macOS and WSL** as a single self-contained executable — no Python required.
 

@@ -24,7 +24,7 @@ except ImportError:  # Windows senza windows-curses
 
 IS_WIN = os.name == "nt"
 IS_MAC = sys.platform == "darwin"
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 # ------------------------------------------------------------ I18N ----
 LANGS = ["en", "it", "es", "fr", "de"]
